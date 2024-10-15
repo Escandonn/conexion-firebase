@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876439792184",
+    "project_id": "clon-netflix-1",
+    "storage_bucket": "clon-netflix-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876439792184:android:d15f3c5fceb14852e194cd",
+        "android_client_info": {
+          "package_name": "co.edu.uceva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHwisUuvO0GOZEM5pBSXE3dTELXA8A9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876439792184:android:d6890d6bd75b3861e194cd",
+        "android_client_info": {
+          "package_name": "com.example.memesv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYHwisUuvO0GOZEM5pBSXE3dTELXA8A9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
